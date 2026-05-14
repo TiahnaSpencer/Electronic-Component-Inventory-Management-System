@@ -1,2 +1,2 @@
 # Electronic-Component-Inventory-Management-System
-This code will 
+This code will manage inventory for electronical components 
